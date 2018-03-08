@@ -1,0 +1,52 @@
+[
+    {
+        "productId": 1,
+        "productName": "Jbhunt360",
+        "productCode": "GDN-0011",
+        "releaseDate": "March 19, 2016",
+        "description": "Software is very laggy.",
+        "price": 19.95,
+        "starRating": 3.2,
+        "imageUrl": "https://openclipart.org/image/800px/svg_to_png/258244/Annoyed-Smiley-Face.png"
+    },
+    {
+        "productId": 2,
+        "productName": "Jbhunt",
+        "productCode": "GDN-0023",
+        "releaseDate": "March 18, 2016",
+        "description": "Treats the employees well, highly recommend",
+        "price": 32.99,
+        "starRating": 4.2,
+        "imageUrl": "https://openclipart.org/image/800px/svg_to_png/279689/Button---Happy.png"
+    },
+    {
+        "productId": 5,
+        "productName": "truckdriving",
+        "productCode": "TBX-0048",
+        "releaseDate": "May 21, 2016",
+        "description": "Driving is not fun",
+        "price": 8.9,
+        "starRating": 4.8,
+        "imageUrl": "https://openclipart.org/image/800px/svg_to_png/222222/Angry-Smiley-Face.png"
+    },
+    {
+        "productId": 8,
+        "productName": "Jbhunt360",
+        "productCode": "TBX-0022",
+        "releaseDate": "May 15, 2016",
+        "description": "Jbhunt is stressful",
+        "price": 11.55,
+        "starRating": 3.7,
+        "imageUrl": "https://openclipart.org/image/800px/svg_to_png/258244/Annoyed-Smiley-Face.png"
+    },
+    {
+        "productId": 10,
+        "productName": "360platform",
+        "productCode": "GMG-0042",
+        "releaseDate": "October 15, 2015",
+        "description": "Gonna revolutionize the industry",
+        "price": 35.95,
+        "starRating": 4.6,
+        "imageUrl": "https://openclipart.org/image/800px/svg_to_png/279689/Button---Happy.png"
+    }
+]
