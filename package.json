@@ -8,6 +8,7 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint --type-check",
+    "start-proxy": "ng serve --env=proxy --disable-host-check --proxy-config proxy.conf.json",
     "e2e": "ng e2e"
   },
   "private": true,
@@ -45,6 +46,6 @@
     "protractor": "~5.1.2",
     "ts-node": "~3.0.4",
     "tslint": "~5.3.2",
-    "typescript": "~2.3.3"
+    "typescript": "2.6.x"
   }
 }
