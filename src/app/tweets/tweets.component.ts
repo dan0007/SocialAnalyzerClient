@@ -8,10 +8,14 @@ import {TweetsService} from './tweets.service';
 })
 export class TweetsComponent implements OnInit {
 
+  dataList;
   constructor(private tweetsService: TweetsService) { }
 
   ngOnInit() {
-
+    this.tweetsService.getTweets('360marketplace').subscribe(
+      data => {
+        this.dataList = data;
+      });
   }
 
 }
